@@ -10,7 +10,7 @@
 //         for(i=1;i<=rows;i++){
 //             cout<<endl;
 //             for(k=1;k<=i;k++){
-//                 cout<<b;
+//                 cout<<" "<<b;
 //                 b++;
 //             }
 //             cout<<endl;
