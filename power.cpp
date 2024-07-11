@@ -15,6 +15,7 @@
 // }
 
 // Power of a number using function:
+// 1st method:
 
 // #include<iostream>
 // using namespace std;
@@ -40,6 +41,8 @@
 // #include<iostream>
 // #include<math.h>
 // using namespace std;
+
+// 2nd method:
 
 // int powerof(int a , int b){
 //     return pow(a,b);
